@@ -1,0 +1,5 @@
+telebot
+SpeechRecognition
+soundfile
+moviepy
+python-dotenv
